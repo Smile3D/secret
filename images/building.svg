@@ -1,0 +1,22 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_1045_10673" fill="white">
+<path d="M0 2.66098C0 1.74365 0.743646 1 1.66098 1H12.339C13.2564 1 14 1.74365 14 2.66098V22.9471C14 23.5286 13.5286 24 12.9471 24H1.0529C0.471399 24 0 23.5286 0 22.9471V2.66098Z"/>
+</mask>
+<path d="M0 2.66098C0 1.74365 0.743646 1 1.66098 1H12.339C13.2564 1 14 1.74365 14 2.66098V22.9471C14 23.5286 13.5286 24 12.9471 24H1.0529C0.471399 24 0 23.5286 0 22.9471V2.66098Z" stroke="black" stroke-width="2.21464" mask="url(#path-1-inside-1_1045_10673)"/>
+<rect x="3.60445" y="4.12594" width="2.69151" height="2.69151" rx="0.497389" stroke="black" stroke-width="0.552654"/>
+<rect x="3.60445" y="12.7685" width="2.69151" height="2.69151" rx="0.497389" stroke="black" stroke-width="0.552654"/>
+<rect x="3.60445" y="8.4482" width="2.69151" height="2.69151" rx="0.497389" stroke="black" stroke-width="0.552654"/>
+<rect x="3.60445" y="17.0909" width="2.69151" height="2.69151" rx="0.497389" stroke="black" stroke-width="0.552654"/>
+<rect x="7.92867" y="4.12594" width="2.69151" height="2.69151" rx="0.497389" stroke="black" stroke-width="0.552654"/>
+<rect x="7.92476" y="12.7685" width="2.69151" height="2.69151" rx="0.497389" stroke="black" stroke-width="0.552654"/>
+<rect x="7.92476" y="8.4482" width="2.69151" height="2.69151" rx="0.497389" stroke="black" stroke-width="0.552654"/>
+<rect x="7.92476" y="17.0908" width="2.69151" height="2.69151" rx="0.497389" stroke="black" stroke-width="0.552654"/>
+<rect x="15.2556" y="13.5397" width="2.48939" height="2.48939" rx="0.460036" stroke="black" stroke-width="0.511152"/>
+<rect x="15.2556" y="17.5374" width="2.48939" height="2.48939" rx="0.460036" stroke="black" stroke-width="0.511152"/>
+<rect x="19.2546" y="13.5397" width="2.48939" height="2.48939" rx="0.460036" stroke="black" stroke-width="0.511152"/>
+<rect x="19.2536" y="17.5374" width="2.48939" height="2.48939" rx="0.460036" stroke="black" stroke-width="0.511152"/>
+<mask id="path-14-inside-2_1045_10673" fill="white">
+<path d="M13 11.661C13 10.7436 13.7436 10 14.661 10H22.339C23.2564 10 24 10.7436 24 11.661V22.9471C24 23.5286 23.5286 24 22.9471 24H14.0529C13.4714 24 13 23.5286 13 22.9471V11.661Z"/>
+</mask>
+<path d="M13 11.661C13 10.7436 13.7436 10 14.661 10H22.339C23.2564 10 24 10.7436 24 11.661V22.9471C24 23.5286 23.5286 24 22.9471 24H14.0529C13.4714 24 13 23.5286 13 22.9471V11.661Z" stroke="black" stroke-width="2.21464" mask="url(#path-14-inside-2_1045_10673)"/>
+</svg>

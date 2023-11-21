@@ -1,0 +1,22 @@
+<svg width="24" height="15" viewBox="0 0 24 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_453_14302" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="15">
+<rect x="0.3125" y="0.609375" width="23.1523" height="14.0133" rx="2" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_453_14302)">
+<rect x="0.3125" y="0.609375" width="23.1523" height="14.0133" fill="#FAFAFA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M23.4648 12.9473V9.9009H18.4383L23.4648 12.9473Z" fill="#012169"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.3721 9.90119L23.4648 13.5568L23.4648 14.623L15.5443 9.90119H17.3721Z" fill="#C8102E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.1749 14.623H20.7246L14.1749 10.6628V14.623Z" fill="#012169"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.60352 14.623H3.20616L9.60352 10.6628L9.60352 14.623Z" fill="#012169"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.60352 9.90119L2.04854 14.623L0.312115 14.623L8.01941 9.90119H9.60352Z" fill="#C8102E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.313348 12.9473V9.9009H5.33984L0.313348 12.9473Z" fill="#012169"/>
+<rect x="0.3125" y="6.24414" width="23.1523" height="2.74173" fill="#C8102E"/>
+<rect x="10.5176" y="0.609375" width="2.74173" height="14.0133" fill="#C8102E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M23.464 2.28516V5.33152H18.4375L23.464 2.28516Z" fill="#012169"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.1758 5.33123L21.7308 0.609375L23.4672 0.609375L15.7599 5.33123H14.1758Z" fill="#C8102E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.1758 0.609375H20.5731L14.1758 4.56964L14.1758 0.609375Z" fill="#012169"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.60436 0.609375H3.05469L9.60436 4.56964V0.609375Z" fill="#012169"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.40522 5.33123L0.3125 1.6756L0.3125 0.609375L8.23304 5.33123H6.40522Z" fill="#C8102E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.3125 2.28516V5.33152H5.339L0.3125 2.28516Z" fill="#012169"/>
+</g>
+</svg>
